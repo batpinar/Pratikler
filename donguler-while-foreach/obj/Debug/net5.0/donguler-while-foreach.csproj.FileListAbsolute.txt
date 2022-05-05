@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
