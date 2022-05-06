@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\ref\diziler-array-sinif-metodlari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\ref\diziler-array-sinif-metodlari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.genruntimeconfig.cache
