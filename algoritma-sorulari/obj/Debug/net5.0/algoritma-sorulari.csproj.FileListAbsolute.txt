@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\algoritma-sorulari.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\algoritma-sorulari.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\algoritma-sorulari.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\algoritma-sorulari.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\algoritma-sorulari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\ref\algoritma-sorulari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\bin\Debug\net5.0\algoritma-sorulari.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\ref\algoritma-sorulari.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\algoritma-sorulari\obj\Debug\net5.0\algoritma-sorulari.genruntimeconfig.cache
