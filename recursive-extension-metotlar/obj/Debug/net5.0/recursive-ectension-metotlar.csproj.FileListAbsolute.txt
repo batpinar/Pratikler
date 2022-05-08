@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\recursive-ectension-metotlar.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\recursive-ectension-metotlar.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\recursive-ectension-metotlar.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\recursive-ectension-metotlar.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\recursive-ectension-metotlar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\ref\recursive-ectension-metotlar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\bin\Debug\net5.0\recursive-ectension-metotlar.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\ref\recursive-ectension-metotlar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\recursive-ectension-metotlar\obj\Debug\net5.0\recursive-ectension-metotlar.genruntimeconfig.cache
