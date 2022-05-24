@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\bin\Debug\net5.0\inheritance.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\bin\Debug\net5.0\inheritance.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\bin\Debug\net5.0\inheritance.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\bin\Debug\net5.0\inheritance.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\refint\inheritance.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\inheritance\obj\Debug\net5.0\ref\inheritance.dll
