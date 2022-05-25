@@ -8,6 +8,12 @@ namespace inheritance
         {
             Console.WriteLine("Bitkiler fotosentez yapar.");
         }
+
+        public override void UyaranlarTepki()
+        {
+            // base.UyaranlarTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+        }
     }
 
     public class TohumluBitkiler : Bitkiler
@@ -18,6 +24,7 @@ namespace inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlarTepki();
         }
         public void TohumlaCogalma()
         {
