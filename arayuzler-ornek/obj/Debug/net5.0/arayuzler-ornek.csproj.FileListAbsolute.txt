@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\refint\arayuzler-ornek.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.genruntimeconfig.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\arayuzler-ornek\obj\Debug\net5.0\ref\arayuzler-ornek.dll
