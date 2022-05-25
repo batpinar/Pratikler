@@ -1,0 +1,16 @@
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.csproj.AssemblyReference.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.AssemblyInfoInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.AssemblyInfo.cs
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.csproj.CoreCompileInputs.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\bin\Debug\net5.0\abstract-siniflar.exe
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\bin\Debug\net5.0\abstract-siniflar.deps.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\bin\Debug\net5.0\abstract-siniflar.runtimeconfig.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\bin\Debug\net5.0\abstract-siniflar.runtimeconfig.dev.json
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\bin\Debug\net5.0\abstract-siniflar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\bin\Debug\net5.0\abstract-siniflar.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\refint\abstract-siniflar.dll
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.pdb
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\abstract-siniflar.genruntimeconfig.cache
+C:\Users\BERKAN\OneDrive\Masaüstü\Pratikler\abstract-siniflar\obj\Debug\net5.0\ref\abstract-siniflar.dll
